@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.7;
+  color: black;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 0 20px 96px;
+  margin: 0 auto;
+}
+
+.page-title {
+  font-size: 46px;
+  text-align: center;
+}
+
+.content {
+  width: 300px;
+  text-align: center;
+  margin: auto;
+}
