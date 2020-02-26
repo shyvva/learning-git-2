@@ -5,6 +5,12 @@ body {
   color: black;
 }
 
+.splash {
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+
 .container {
   max-width: 1140px;
   padding: 0 20px 96px;
