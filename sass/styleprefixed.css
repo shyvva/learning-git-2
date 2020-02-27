@@ -26,5 +26,6 @@ body {
   width: 300px;
   text-align: center;
   margin: auto;
+  display: -ms-flexbox;
   display: flex;
 }
