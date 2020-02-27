@@ -1,6 +1,6 @@
 1. autoprefixer-cli 
 
-KOMENDA: node_modules/.bin/autoprefixer-cli -o styleprefixed.css style.css
+KOMENDA: node_modules/.bin/autoprefixer-cli -o sass/styleprefixed.css sass/style.css
 
 
 2. html-validate
