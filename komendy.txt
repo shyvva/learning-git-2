@@ -5,4 +5,4 @@ KOMENDA: node_modules/.bin/autoprefixer-cli -o sass/styleprefixed.css sass/style
 
 2. html-validate
 
-KOMENDA: html-validate FILENAME... 
+KOMENDA: html-validate *.html
